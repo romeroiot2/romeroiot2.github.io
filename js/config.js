@@ -11,17 +11,17 @@ class MiNav extends HTMLElement {
         </span>
         Inicio
       </a>
-      <a href="formulario.html">
+      <a href="historial.html">
         <span class="material-icons">
           fastfood
         </span>
-        Formulario
+        Historial
       </a>
-      <a href="gps.html">
+      <a href="dispositivo.html">
         <span class="material-icons">
-          brightness_medium
+          screenshot
         </span>
-        Brillo
+       Simulacion de Dispositivo
       </a>`;
   }
 }
