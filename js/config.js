@@ -9,7 +9,7 @@ class MiNav extends HTMLElement {
           class="material-icons">
           home
         </span>
-        Inicio
+        Principal
       </a>
       <a href="historial.html">
         <span class="material-icons">
