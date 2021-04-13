@@ -21,7 +21,7 @@ class MiNav extends HTMLElement {
         <span class="material-icons">
           screenshot
         </span>
-       Simulacion de Dispositivo
+       Simulador
       </a>`;
   }
 }
