@@ -22,20 +22,6 @@ class MiNav extends HTMLElement {
           brightness_medium
         </span>
         Brillo
-      </a>
-      <a href="archivos.html">
-        <span
-          class="material-icons">
-          attach_file
-        </span>
-        Archivos
-      </a>
-      <a href="ayuda.html">
-        <span
-          class="material-icons">
-          help
-        </span>
-        Ayuda
       </a>`;
   }
 }
