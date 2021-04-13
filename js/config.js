@@ -17,12 +17,13 @@ class MiNav extends HTMLElement {
         </span>
         Historial
       </a>
-      <a href="dispositivo.html">
+       <a href="dispositivo.html">
         <span class="material-icons">
-          ring_volume
+          fastfood
         </span>
-       Simulador
-      </a>`;
+        dispositivo
+      </a>
+      `;
   }
 }
 customElements.define(
