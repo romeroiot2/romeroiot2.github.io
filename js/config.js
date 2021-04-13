@@ -19,7 +19,7 @@ class MiNav extends HTMLElement {
       </a>
        <a href="dispositivo.html">
         <span class="material-icons">
-          screenshot
+          phonelink
         </span>
         dispositivo
       </a>
