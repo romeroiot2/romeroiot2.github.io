@@ -4,7 +4,13 @@ import "/lib/campo-dinamico.js";
 class MiNav extends HTMLElement {
   connectedCallback() {
     this.innerHTML = /* html */
-      `<a href="index.html">
+      ` <a href="dispositivo.html">
+        <span class="material-icons">
+          phonelink
+        </span>
+        dispositivo
+      </a>
+        <a href="index.html">
         <span
           class="material-icons">
           home
@@ -16,14 +22,7 @@ class MiNav extends HTMLElement {
           fastfood
         </span>
         Historial
-      </a>
-       <a href="dispositivo.html">
-        <span class="material-icons">
-          phonelink
-        </span>
-        dispositivo
-      </a>
-      `;
+      </a>`;
   }
 }
 customElements.define(
