@@ -4,13 +4,7 @@ import "/lib/campo-dinamico.js";
 class MiNav extends HTMLElement {
   connectedCallback() {
     this.innerHTML = /* html */
-      ` <a href="dispositivo.html">
-        <span class="material-icons">
-          phonelink
-        </span>
-        dispositivo
-      </a>
-        <a href="index.html">
+      ` <a href="index.html">
         <span
           class="material-icons">
           home
